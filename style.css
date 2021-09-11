@@ -1,0 +1,17 @@
+*{background-color: black;}
+#button{
+
+    width: 100%;
+    height: 150px ;
+background-color: yellow;
+box-shadow: rgb(0, 0, 0) 10px;
+border-color: yellow;
+border-radius: 20%;
+
+}
+#button:hover{
+background-color: rgb(89, 241, 0);
+
+}
+input{width: auto;}
+#sam{background-color: white}
